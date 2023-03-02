@@ -144,12 +144,6 @@ url = "https://github.com/holium/realm-support"
 url = "https://github.com/holium/trove"
 
 [[repo]]
-url = "https://github.com/holium/ucal"
-
-[[repo]]
-url = "https://github.com/holium/urbit.org"
-
-[[repo]]
 url = "https://github.com/holium/webrtc-dev-server"
 
 [[repo]]
@@ -246,9 +240,6 @@ url = "https://github.com/tirrel-corp/scene"
 url = "https://github.com/tirrel-corp/studio"
 
 [[repo]]
-url = "https://github.com/tirrel-corp/urbit"
-
-[[repo]]
 url = "https://github.com/tloncorp/bouncer"
 
 [[repo]]
@@ -292,9 +283,6 @@ url = "https://github.com/uqbar-dao/ui-components"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/uqbar-core"
-
-[[repo]]
-url = "https://github.com/uqbar-dao/urbit"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/urbit-mobile-app-template"
